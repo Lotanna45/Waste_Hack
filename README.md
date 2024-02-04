@@ -13,4 +13,4 @@ We have also included another page titled “Quiz”. In this section the HTML c
 The last section we have included is a “Recycle Center” tab. In this tab we displayed a few cities with the highest landfill waste problems. Underneath each city, using HTML, we included hyperlinks of recyclable centers in that city. By clicking on the link the user will be led to the company’s website where they can see where the recycling center is located and what they can recycle. 
  
 For future development, we plan to use API’s to get and display data about carbon emissions and the cities with the highest landfill problems. 
-This project was written using Replit for seamless collaboration, and we used HTML, CSS, and JavaScript for functionality and improved user interactions.
+This project was written using Replit for seamless collaboration, and we used HTML, CSS, and JavaScript for functionality and improved user interactions. We also created a domain name through GoDaddy Registry.
