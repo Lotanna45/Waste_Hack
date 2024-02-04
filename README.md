@@ -1,4 +1,5 @@
 # Waste_Hack
+Web Link: [https://wastehack.co/index.html](url)
 A web application addressing the problem of waste Management.
 
 The name of our web application is Waste Hack. Its aim is to provide resources and educate the user about the issue of waste management. We believe that it is important to identify knowledge and bridge those gaps through resource sharing. This is exactly what our website does.
